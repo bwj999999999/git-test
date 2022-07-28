@@ -12,7 +12,12 @@ public class GitTesst {
         System.out.println("shuooo4 fix");
         System.out.println("shuooo4 master-test");
         System.out.println("shuooo4 fix-text");
+        System.out.println("口令：" +
+                "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");
+        System.out.println("ouss");
+        System.out.println("ssh");
     }
+
 
 
 }
