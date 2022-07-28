@@ -10,6 +10,7 @@ public class GitTesst {
         System.out.println("shuooo2");
         System.out.println("shuooo3");
         System.out.println("shuooo4 fix");
+        System.out.println("shuooo4 fix-text");
     }
 
 
