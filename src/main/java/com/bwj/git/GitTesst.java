@@ -11,6 +11,7 @@ public class GitTesst {
         System.out.println("shuooo3");
         System.out.println("shuooo4 fix");
         System.out.println("shuooo4 master-test");
+        System.out.println("shuooo4 fix-text");
     }
 
 
